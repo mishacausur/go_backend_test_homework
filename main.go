@@ -1,5 +1,6 @@
 package main
 
+// smth is here
 import (
 	"fmt"
 )
